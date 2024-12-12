@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning go language
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me, you can contact me by email rizkiwirat12Gmail.com
+- 📫 How to reach me, you can contact me by email rizkiwirat13@Gmail.com
 
 <!---
 Draxterra/Draxterra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
